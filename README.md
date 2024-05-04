@@ -4,3 +4,5 @@
 
 ### Description
 Repository holding algorithms that improve bias in machine. Specifically, the first algorithm is looking at a fair loan approvement for snowboarders or skiers that can be either alien or predator. The data itself is presumed to be bias towards alien for historical reasons, the algorithm investigates how to mitigate bias and promote fairness.
+
+<img src="https://github.com/alinvdu/fairness-and-bias/assets/16021447/83157ba5-c456-45ff-bc28-98d4ad7738f9" width="960px" />
